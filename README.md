@@ -1,6 +1,6 @@
 # BI&A Test
 
-This repository contains the solution to the BI&A Test. The test consists of three datasets: CSAT Data, AHT Data, and Hire Dates. The goal is to analyze the data and provide insights into the relationship between Customer Satisfaction (CSAT) ratings, Average Handling Time (AHT), and other relevant factors.
+This project develops an analysis for a Tech Support Customer Service Line. The main goal of the project is to create the EDA and generate valuable insights with advanced data skills combined with Business Intelligence tools such as PowerBI.
 
 ## Data Description
 
